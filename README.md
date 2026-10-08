@@ -8,7 +8,7 @@
 
 ## My Schedule
 - **Monday**
-  - 12:00 - [COMP 1151- IT Essentials](https://learn.georgebrown.ca/d2l/home/515478){:target="_blank"}
+  - 12:00 - [COMP 1151- IT Essentials](https://learn.georgebrown.ca/d2l/home/515478)
   - 14:00 - [COMP 1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/514711)
   - 16:00 - [COMP 1238 - Intro to Data Management](https://learn.georgebrown.ca/d2l/home/513886)
 - **Tuesday**
